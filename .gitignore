@@ -1,0 +1,12 @@
+# David Zarza Luna @ hacklabs.com
+# 31/10/2014
+# This file contains the ignored files by Git repository.
+.buildpath
+.project
+.settings/*
+.DS_Store
+.com.apple.timemachine.supported
+test.php
+LICENSE
+docs/*
+security/*

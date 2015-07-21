@@ -1,0 +1,82 @@
+.magenta {
+	background: repeat-x scroll 50% 50% #FF00FF;
+	border: 1px solid #000000;
+	font-weight: 600;
+	float: left;
+}
+.red {
+	background: repeat-x scroll 50% 50% #FF0000;
+	border: 1px solid #000000;
+	font-weight: 600;
+	float: left;
+}
+
+.orange {
+	background: repeat-x scroll 50% 50% #FF9900;
+	border: 1px solid #000000;
+	font-weight: 600;
+	float: left;
+}
+
+.yellow {
+	background: repeat-x scroll 50% 50% yellow;
+	border: 1px solid #000000;
+	font-weight: 600;
+	float: left;
+}
+
+.green{
+	background: repeat-x scroll 50% 50% #99CC00;
+	border: 1px solid #000000;
+	font-weight: 600;
+	float: left;
+}
+
+.table-magenta {
+	background: repeat-x scroll 50% 50% #FF00FF;
+	font-weight: normal;
+	font-style:italic;
+}
+.table-red {
+	background: repeat-x scroll 50% 50% #FF0000;
+	font-weight: normal;
+	font-style:italic;
+}
+
+.table-orange {
+	background: repeat-x scroll 50% 50% #FF9900;
+	font-weight: normal;
+	font-style:italic;
+}
+
+.table-yellow {
+	background: repeat-x scroll 50% 50% yellow;
+	font-weight: normal;
+	font-style:italic;
+}
+
+.table-green{
+	background: repeat-x scroll 50% 50% #99CC00;
+	font-weight: normal;
+	font-style:italic;
+}
+
+.redalert {
+	background: repeat-x scroll 50% 50% #F70D1A;
+	border: 1px solid #000000;
+	font-weight: 600;
+	float: none;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 2em;
+}
+
+.greenalert {
+	background: repeat-x scroll 50% 50% #32CD32;
+	border: 1px solid #000000;
+	font-weight: 600;
+	float: none;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 2em;
+}
